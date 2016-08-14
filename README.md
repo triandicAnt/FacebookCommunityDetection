@@ -5,7 +5,7 @@ Data consisted of users as nodes and their relationship between friends as their
 
 The algorithm detected communities in attributed graph data based on the structural, demographic (age, sex, ethnicity, education) and attribute similarities using Python's iGraph module. 
 
-The found segments are evaluated via influence propagation. 
+The found segments were evaluated via influence propagation. 
 
 In influence propagation an entity in the segment is influenced and how fast the influence propagates over the entire network is evaluated. 
 
