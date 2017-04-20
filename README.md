@@ -1,4 +1,4 @@
-# Market-Segmentation
+# Community Detection( Market Segmentation)
 Find market segments in social network data of Facebook users.
 
 ## Objective:
